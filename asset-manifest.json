@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/gameficacao/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/gameficacao/static/js/main.f2c63b1b.chunk.js",
-    "main.js.map": "/gameficacao/static/js/main.f2c63b1b.chunk.js.map",
+    "main.js": "/gameficacao/static/js/main.2d1822d0.chunk.js",
+    "main.js.map": "/gameficacao/static/js/main.2d1822d0.chunk.js.map",
     "runtime-main.js": "/gameficacao/static/js/runtime-main.5c2c22cb.js",
     "runtime-main.js.map": "/gameficacao/static/js/runtime-main.5c2c22cb.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/gameficacao/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.c0fbd12e.chunk.js": "/gameficacao/static/js/2.c0fbd12e.chunk.js",
-    "static/js/2.c0fbd12e.chunk.js.map": "/gameficacao/static/js/2.c0fbd12e.chunk.js.map",
+    "static/js/2.0a047f65.chunk.js": "/gameficacao/static/js/2.0a047f65.chunk.js",
+    "static/js/2.0a047f65.chunk.js.map": "/gameficacao/static/js/2.0a047f65.chunk.js.map",
     "static/js/3.d4a4ec69.chunk.js": "/gameficacao/static/js/3.d4a4ec69.chunk.js",
     "static/js/3.d4a4ec69.chunk.js.map": "/gameficacao/static/js/3.d4a4ec69.chunk.js.map",
     "index.html": "/gameficacao/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/gameficacao/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.ab7136cd.chunk.css.map": "/gameficacao/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.c0fbd12e.chunk.js.LICENSE.txt": "/gameficacao/static/js/2.c0fbd12e.chunk.js.LICENSE.txt",
+    "static/js/2.0a047f65.chunk.js.LICENSE.txt": "/gameficacao/static/js/2.0a047f65.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/gameficacao/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5c2c22cb.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.c0fbd12e.chunk.js",
+    "static/js/2.0a047f65.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.f2c63b1b.chunk.js"
+    "static/js/main.2d1822d0.chunk.js"
   ]
 }
